@@ -2,7 +2,7 @@
 z*
 
 # User-specific files - Ignore all files ending in ".suo"
-*.env
+*env
 
 # Root config folder - Ignore this directory at the root due to leading slash
-/artifacts
+/artifacts/

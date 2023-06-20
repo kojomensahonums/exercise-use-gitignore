@@ -1,4 +1,3 @@
-node_modules/
 # User-specific files - Ignore all files ending in ".suo"
 *.env
 

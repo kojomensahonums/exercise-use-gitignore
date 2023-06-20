@@ -1,5 +1,9 @@
-#node_modules/
-*.env/
-/artifacts/
-z*/
+node_modules/
+# User-specific files - Ignore all files ending in ".suo"
+*.env
 
+# Mono auto generated files - Ignore all files starting with "z"
+z*
+
+# Root config folder - Ignore this directory at the root due to leading slash
+/artifacts
